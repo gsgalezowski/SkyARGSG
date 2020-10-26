@@ -3,7 +3,7 @@
   "ckptdir": "./checkpoints_G_coord_resnet50",
 
   "input_mode": "video",
-  "datadir": "./test_videos/canyon.mp4",
+  "datadir": "./test_videos/car.mp4",
   "skybox": "jupiter.jpg",
 
   "in_size_w": 384,
